@@ -4,23 +4,14 @@
 
   <!-- Spoken Languages (High-Res Flags) -->
   <p>
-    <img src="https://flagcdn.com/w80/pt.png" width="40" alt="Portuguese" title="Portuguese" style="margin: 0 10px; border-radius: 4px;" />
-    <img src="https://flagcdn.com/w80/nl.png" width="40" alt="Dutch" title="Dutch" style="margin: 0 10px; border-radius: 4px;" />
-    <img src="https://flagcdn.com/w80/gb.png" width="40" alt="English" title="English" style="margin: 0 10px; border-radius: 4px;" />
+    <img src="https://flagcdn.com/w80/pt.png" width="36" alt="Portuguese" title="Portuguese" style="border-radius: 4px; margin: 0 6px;" />
+    <img src="https://flagcdn.com/w80/nl.png" width="36" alt="Dutch" title="Dutch" style="border-radius: 4px; margin: 0 6px;" />
+    <img src="https://flagcdn.com/w80/gb.png" width="36" alt="English" title="English" style="border-radius: 4px; margin: 0 6px;" />
   </p>
 
   <br/>
 
-  <!-- Dashboard Stats (Streak) -->
-  <a href="https://github.com/PnRodrigo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PnRodrigo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+  <!-- Live Music / Aesthetic Player Widget -->
+  <a href="https://spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&width=420" alt="Recently Played" />
   </a>
-
-  <br/>
-
-  <!-- Live Activity Graph -->
-  <a href="https://github.com/PnRodrigo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PnRodrigo&theme=tokyo-night&hide_border=true&area=true&color=00D2FF&line=00D2FF&point=FFFFFF" alt="Activity Graph" width="70%" />
-  </a>
-  
-</div>
