@@ -13,7 +13,7 @@
 
   <!-- Live Music / Aesthetic Player Widget -->
   <a href="https://spotify.com">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=qaqqhrlygvfdz43xic92yf28c&count=3&width=380&radius=16&time=0&avatar=0&username=off&footer=wave" alt="Recently Played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=qaqqhrlygvfdz43xic92yf28c&count=3&width=440&radius=13&time=0&avatar=0&username=off&footer=wave" alt="Recently Played" />
   </a>
 
  
