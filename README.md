@@ -13,5 +13,8 @@
 
   <!-- Live Music / Aesthetic Player Widget -->
   <a href="https://spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&width=420" alt="Recently Played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=qaqqhrlygvfdz43xic92yf28c&count=3&width=380&radius=16&time=0&avatar=0&username=off&footer=wave" alt="Recently Played" />
   </a>
+
+ 
+</div>
